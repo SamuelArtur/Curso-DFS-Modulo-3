@@ -1,0 +1,763 @@
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication.csproj.AssemblyReference.cache
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication.AssemblyInfoInputs.cache
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication.AssemblyInfo.cs
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication.csproj.CoreCompileInputs.cache
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/appsettings.json
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/WebApplication.exe
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/WebApplication.deps.json
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/WebApplication.runtimeconfig.json
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/WebApplication.runtimeconfig.dev.json
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/WebApplication.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/ref/WebApplication.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/WebApplication.pdb
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/staticwebassets/WebApplication.StaticWebAssets.Manifest.cache
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/staticwebassets/WebApplication.StaticWebAssets.xml
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/scopedcss/bundle/WebApplication.styles.css
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication.RazorTargetAssemblyInfo.cache
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication.csproj.CopyComplete
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/ref/WebApplication.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication.pdb
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/obj/Debug/net5.0/WebApplication.genruntimeconfig.cache
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/EntityFramework.SqlServer.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/EntityFramework.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/System.CodeDom.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Data.SqlClient.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/HealthChecks.UI.Core.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/HealthChecks.UI.InMemory.Storage.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/mscorlib.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/netstandard.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.AppContext.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Buffers.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Collections.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.ComponentModel.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Configuration.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Console.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Core.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Data.Common.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Data.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Drawing.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Globalization.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.Compression.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Linq.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Memory.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.Http.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.Mail.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.Ping.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.Requests.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.Security.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Numerics.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.ObjectModel.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Reflection.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.Claims.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.Principal.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Text.Json.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Threading.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Transactions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.ValueTuple.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Web.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Windows.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Xml.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/refs/WindowsBase.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Web.Mvc.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Web.Razor.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Web.Helpers.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Web.WebPages.Deployment.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Web.WebPages.Razor.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/System.Web.WebPages.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.Web.Infrastructure.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/AutoMapper.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/WebApplication.StaticWebAssets.xml
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+C:/Users/Samuel Artur/Desktop/Projeto de Aplicação Web/WebApplication1/WebApplication1/bin/Debug/net5.0/Nobly.Extensions.ModelStateDictionary.dll
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/WebApplication.csproj.AssemblyReference.cache
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/WebApplication.AssemblyInfoInputs.cache
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/WebApplication.AssemblyInfo.cs
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/WebApplication.csproj.CoreCompileInputs.cache
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/WebApplication.MvcApplicationPartsAssemblyInfo.cs
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/WebApplication.MvcApplicationPartsAssemblyInfo.cache
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/WebApplication.dll
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/ref/WebApplication.dll
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/WebApplication.pdb
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/appsettings.Development.json
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/appsettings.json
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/WebApplication.StaticWebAssets.xml
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/WebApplication
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/WebApplication.deps.json
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/WebApplication.runtimeconfig.json
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/WebApplication.runtimeconfig.dev.json
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/WebApplication.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/ref/WebApplication.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/WebApplication.pdb
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/mscorlib.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/netstandard.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.AppContext.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Buffers.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Collections.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.ComponentModel.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Configuration.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Console.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Core.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Data.Common.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Data.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Drawing.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Globalization.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.Compression.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Linq.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Memory.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.Http.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.Mail.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.Ping.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.Requests.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.Security.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Numerics.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.ObjectModel.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Reflection.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.Claims.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.Principal.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Text.Json.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Threading.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Transactions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.ValueTuple.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Web.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Windows.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Xml.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/refs/WindowsBase.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/HealthChecks.UI.Core.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/HealthChecks.UI.InMemory.Storage.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/AutoMapper.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/EntityFramework.SqlServer.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/EntityFramework.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/System.Web.Mvc.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/System.Web.Razor.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/System.Web.Helpers.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/System.Web.WebPages.Deployment.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/System.Web.WebPages.Razor.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/System.Web.WebPages.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.Web.Infrastructure.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Nobly.Extensions.ModelStateDictionary.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Npgsql.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/System.CodeDom.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/System.Data.SqlClient.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/staticwebassets/WebApplication.StaticWebAssets.Manifest.cache
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/staticwebassets/WebApplication.StaticWebAssets.xml
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/scopedcss/bundle/WebApplication.styles.css
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/WebApplication.RazorTargetAssemblyInfo.cache
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/WebApplication.csproj.CopyComplete
+/home/samuelnos/Área de Trabalho/WebAplication/obj/Debug/net5.0/WebApplication.genruntimeconfig.cache
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Humanizer.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/samuelnos/Área de Trabalho/WebAplication/bin/Debug/net5.0/dotnet-ef.dll
