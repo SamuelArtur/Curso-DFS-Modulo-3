@@ -1,0 +1,21 @@
+BEGIN WORK;
+INSERT INTO public."Categories" (
+"Id", "Name") VALUES ('100', 'Fruits and Vegetables');
+
+INSERT INTO public."Categories" (
+"Id", "Name") VALUES ('101', 'Can-Food');
+
+INSERT INTO public."Categories" (
+"Id", "Name") VALUES ('102', 'Refrigerated Food');
+
+UPDATE public."Categories" SET
+"Name" = 'Refrigerated-Food' WHERE
+"Id" = 102;
+
+INSERT INTO public."Categories" (
+"Id", "Name") VALUES ('104', 'Drinks');
+
+DELETE FROM public."Categories" 
+where "Name" = 'Drinks';
+
+COMMIT WORK;

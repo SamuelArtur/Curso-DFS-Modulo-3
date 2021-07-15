@@ -1,0 +1,33 @@
+BEGIN WORK;
+INSERT INTO public."Products" (
+"Id", "Name", "QuantityInPackage", "UnitOfMeasurement", "CategoryId") VALUES (
+'1', 'Sardine', '1', '2', '101');
+
+ INSERT INTO public."Products" (
+"Id", "UnitOfMeasurement", "CategoryId", "Name", "QuantityInPackage") VALUES (
+'2', '2', '101', 'Pea', '1');
+
+ INSERT INTO public."Products" (
+"CategoryId", "Id", "Name", "QuantityInPackage", "UnitOfMeasurement") VALUES (
+'102', '6', 'Beef Steak', '1', '1');
+
+ INSERT INTO public."Products" (
+"CategoryId", "Id", "Name", "QuantityInPackage", "UnitOfMeasurement") VALUES (
+'102', '5', 'Fish', '1', '1');
+
+INSERT INTO public."Products" (
+"Id", "Name", "QuantityInPackage", "UnitOfMeasurement", "CategoryId") VALUES (
+'7', 'Banana', '6', '1', '100');
+
+INSERT INTO public."Products" (
+"Id", "Name", "QuantityInPackage", "UnitOfMeasurement", "CategoryId") VALUES (
+'8', 'Watermelon', '1', '10', '100');
+
+DELETE FROM public."Products" 
+where "Id" = 8;
+
+UPDATE public."Products" SET
+"Name" = 'Fishes' WHERE
+"Id" = 5;
+
+COMMIT WORK;
